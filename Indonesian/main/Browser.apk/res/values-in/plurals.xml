@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="last_num_days">
+        <item quantity="other">%d hari terakhir</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d dari %2$d</item>
+        <item quantity="one">1 cocok</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d dipilih</item>
+        <item quantity="one">%1$d dipilih</item>
+    </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">Bersihkan %1$d video?</item>
+        <item quantity="one">Bersihkan %1$d video?</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">Berhasil menghapus %1$d video.</item>
+        <item quantity="one">Berhasil menghapus %1$d video.</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">Hapus %1$d item dari riwayat?</item>
+        <item quantity="one">Hapus %1$d item dari riwayat?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">%1$d item dihapus dari riwayat.</item>
+        <item quantity="one">%1$d item dihapus dari riwayat.</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d cocok</item>
+        <item quantity="one">%d cocok</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d item diblok</item>
+        <item quantity="one">%d item diblok</item>
+    </plurals>
+</resources>

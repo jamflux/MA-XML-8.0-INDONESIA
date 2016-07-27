@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_bar_label">Masuk ke jaringan</string>
+  <string name="action_do_not_use_network">Jangan gunakan jaringan ini</string>
+  <string name="action_use_network">Gunakan jaringan ini apa adanya</string>
+  <string name="app_name">CaptivePortalLogin</string>
+</resources>

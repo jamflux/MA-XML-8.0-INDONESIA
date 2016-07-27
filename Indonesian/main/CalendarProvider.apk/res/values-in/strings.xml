@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="calendar_default_name">Default</string>
+	<string name="calendar_info">Info kalender</string>
+	<string name="calendar_info_error">Kesalahan</string>
+	<string name="calendar_info_events">Acara: %1$d</string>
+	<string name="calendar_info_events_dirty">Acara: %1$d | Tidak disimpan: %2$d</string>
+	<string name="calendar_info_no_calendars">Tidak ada kalender</string>
+	<string name="calendar_storage">penyimpanan kalender</string>
+	<string name="debug_tool_delete_button">Menghapus</string>
+	<string name="debug_tool_email_body">Terlampir adalah basis data Kalender saya dengan semua janji dan informasi pribadi. Tangani dengan hati-hati.</string>
+	<string name="debug_tool_email_sender_picker">Pilih aplikasi untuk mengirim file Anda</string>
+	<string name="debug_tool_email_subject">alat kalender debugging melekat</string>
+	<string name="debug_tool_message">Kamu menyalin database kalender Anda ke SD kartu penyimpanan / USB yang dapat dibaca oleh aplikasi apapun, dan mengirim database melalui email. Ingatlah untuk menghapus salinan segera setelah Anda telah berhasil didukung itu, atau ketika email Anda akan mengirim diterima. "</string>
+	<string name="debug_tool_start_button">Mulai</string>
+	<string name="holiday_data_no_network">Tidak dapat terhubung ke jaringan. Periksa sambungan data Anda dan coba lagi.</string>
+	<string name="holiday_data_update_failed">Tidak dapat memperbarui. Periksa sambungan data Anda dan coba lagi.</string>
+	<string name="holiday_data_update_succeed">Update selesai</string>
+	<string name="holiday_data_updating">Memperbarui ...</string>
+	<string name="holiday_update_summary">Ketuk untuk memperbarui info kalender.</string>
+	<string name="holiday_update_title">Pembaruan tersedia</string>
+	<string name="provider_label">Kalender</string>
+	<string name="upgrade_msg">Memperbarui Database Kalender ...</string>
+</resources>
