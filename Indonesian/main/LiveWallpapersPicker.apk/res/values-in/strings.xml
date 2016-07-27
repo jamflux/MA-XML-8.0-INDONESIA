@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="application_name">Pengambil Wallpaper Hidup</string>
+	<string name="configure_wallpaper">Pengaturan ...</string>
+	<string name="live_wallpaper_empty">Tidak ada wallpaper hidup.</string>
+	<string name="live_wallpaper_loading">Memuat wallpaper hidup ...</string>
+	<string name="live_wallpaper_picker_label">Hidup</string>
+	<string name="live_wallpaper_picker_title">Pilih wallpaper hidup</string>
+	<string name="live_wallpaper_preview_title">Tayang wallpaper hidup</string>
+	<string name="set_live_wallpaper">Memasang wallpaper</string>
+	<string name="wallpaper_cancel">Membatalkan</string>
+	<string name="wallpaper_instructions">Memasang wallpaper</string>
+	<string name="wallpaper_title_and_author">%1$s %2$s</string>
+</resources>

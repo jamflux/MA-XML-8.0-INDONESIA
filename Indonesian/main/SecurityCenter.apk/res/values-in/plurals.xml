@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Tidak melacak penggunaan data %d aplikasi</item>
+        <item quantity="one">Tidak melacak penggunaan data %d aplikasi</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Melacak penggunaan data untuk %d aplikasi</item>
+        <item quantity="one">Melacak penggunaan data untuk %d aplikasi</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d aplikasi dioptimalkan</item>
+        <item quantity="one">%d aplikasi dioptimalkan</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d aplikasi dapat dioptimalkan</item>
+        <item quantity="one">%d aplikasi dapat dioptimalkan</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d aplikasi menggunakan data saver</item>
+        <item quantity="one">%d aplikasi menggunakan data saver</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d aplikasi tidak menggunakan data saver</item>
+        <item quantity="one">%d aplikasi tidak menggunakan data saver</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Digunakan %d hari yang lalu</item>
+        <item quantity="one">Digunakan kemarin</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Cari %d aplikasi</item>
+        <item quantity="one">Cari %d aplikasi</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d aplikasi dapat menggunakan data roaming</item>
+        <item quantity="one">%d aplikasi dapat menggunakan data roaming</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">"%d aplikasi tidak dapat menggunakan data roaming"</item>
+        <item quantity="one">"%d aplikasi tidak dapat menggunakan data roaming"</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d aplikasi ditemukan</item>
+        <item quantity="one">%d aplikasi ditemukan</item>
+    </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d hari "</item>
+        <item quantity="one">"%d hari "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d jam "</item>
+        <item quantity="one">"%d jam "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d menit "</item>
+        <item quantity="one">"%d menit "</item>
+    </plurals>
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">In %1$d menit</item>
+        <item quantity="one">In %1$d menit</item>
+    </plurals>
+    <plurals name="quick_optimize_summary_text">
+        <item quantity="other">Terselesaikan %d masalah baterai</item>
+        <item quantity="one">Terselesaikan %d masalah baterai</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_found">
+        <item quantity="other">Ditemukan %d masalah baterai</item>
+        <item quantity="one">Ditemukan %d masalah baterai</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d masalah baterai</item>
+        <item quantity="one">%d masalah baterai</item>
+    </plurals>
+    <plurals name="app_check_title_text">
+        <item quantity="other">%d item bisa dioptimalkan</item>
+        <item quantity="one">%d item bisa dioptimalkan</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d aplikasi dapat autostart</item>
+        <item quantity="one">%d aplikasi dapat autostart</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">"%d aplikasi tidak diperbolehkan untuk autostart"</item>
+        <item quantity="one">"%d aplikasi tidak diperbolehkan untuk autostart"</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d izin</item>
+        <item quantity="one">%d izin</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d aplikasi</item>
+        <item quantity="one">%d aplikasi</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d aplikasi memiliki akses root</item>
+        <item quantity="one">%d aplikasi memiliki akses root</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">"%d aplikasi tidak memiliki akses root"</item>
+        <item quantity="one">"%d aplikasi tidak memiliki akses root"</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">Pembaruan tersedia untuk %d aplikasi.</item>
+        <item quantity="one">Pembaruan tersedia untuk %d aplikasi.</item>
+    </plurals>
+    <plurals name="notification_apps">
+        <item quantity="other">%d aplikasi berisi risiko privasi</item>
+        <item quantity="one">%d aplikasi berisi risiko privasi</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Sandi harus terdiri dari minimal %d huruf.</item>
+        <item quantity="one">"Sandi harus terdiri dari minimal 1 huruf. "</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Sandi harus terdiri dari minimal %d huruf kecil.</item>
+        <item quantity="one">Sandi harus terdiri dari minimal 1 huruf kecil …</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Sandi harus terdiri dari minimal %d huruf besar.</item>
+        <item quantity="one">Sandi harus terdiri dari minimal 1 huruf besar …</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Sandi harus terdiri dari minimal %d angka.</item>
+        <item quantity="one">Sandi harus terdiri dari minimal 1 …</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Sandi harus terdiri dari minimal %d simbol khusus.</item>
+        <item quantity="one">Sandi harus terdiri dari minimal 1 simbol khusus …</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Sandi harus terdiri dari minimal %d karakter selain huruf.</item>
+        <item quantity="one">Sandi harus terdiri dari minimal 1 karakter selain huruf …</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d aplikasi terkunci</item>
+        <item quantity="one">%d aplikasi terkunci</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d aplikasi tidak terkunci</item>
+        <item quantity="one">%d aplikasi tidak terkunci</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Cari di antara %d aplikasi</item>
+        <item quantity="one">Cari di antara %d aplikasi</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d aplikasi ditemukan</item>
+        <item quantity="zero">0 aplikasi ditemukan</item>
+        <item quantity="one">%d aplikasi ditemukan</item>
+    </plurals>
+    <plurals name="sp_back_title_text">
+        <item quantity="other">%s risiko pembayaran</item>
+        <item quantity="one">%s risiko pembayaran</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s aplikasi pembayaran dilindungi</item>
+        <item quantity="one">%s aplikasi pembayaran dilindungi</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s aplikasi dilindungi</item>
+        <item quantity="one">%s aplikasi dilindungi</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s aplikasi tidak dilindungi</item>
+        <item quantity="one">%s aplikasi tidak dilindungi</item>
+    </plurals>
+</resources>

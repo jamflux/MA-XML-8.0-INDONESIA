@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+		<item>Cerah</item>
+		<item>Berawan</item>
+		<item>Mendung</item>
+		<item>Berkabut</item>
+		<item>Hujan badai berat</item>
+		<item>Downpour</item>
+		<item>Hujan badai</item>
+		<item>Badai</item>
+		<item>Shower</item>
+		<item>Hujan deras</item>
+		<item>hujan sedang</item>
+		<item>hujan ringan</item>
+		<item>Hujan dan salju bercampur</item>
+		<item>Badai salju</item>
+		<item>Salju</item>
+		<item>Salju berat</item>
+		<item>Salju Sedang</item>
+		<item>Salju ringan</item>
+		<item>Badai pasir yang kuat</item>
+		<item>Badai pasir</item>
+		<item>Pasir</item>
+		<item>Berangin</item>
+		<item>Hail</item>
+		<item>Berdebu</item>
+		<item>Haze</item>
+		<item>Hujan dingin</item>
+        <item></item>
+    </string-array>
+</resources>

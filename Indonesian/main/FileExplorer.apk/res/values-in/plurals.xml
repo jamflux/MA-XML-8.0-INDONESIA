@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+		<item quantity="other">Hapus %1$d file</item>
+		<item quantity="zero">Hapus %1$d file</item>
+		<item quantity="one">Hapus %1$d berkas</item>
+		<item quantity="two">Hapus %1$d file</item>
+		<item quantity="few">Hapus %1$d file</item>
+		<item quantity="many">Hapus %1$d file</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+		<item quantity="other"> dan %1$d folder?</item>
+		<item quantity="zero"> dan %1$d folder?</item>
+		<item quantity="one"> dan %1$d folder?</item>
+		<item quantity="two"> dan %1$d folder?</item>
+		<item quantity="few"> dan %1$d folder?</item>
+		<item quantity="many"> dan %1$d folder?</item>
+    </plurals>
+    <plurals name="directory_item_count">
+		<item quantity="other">%d item</item>
+		<item quantity="zero">%d item</item>
+		<item quantity="one">%d item</item>
+		<item quantity="two">%d item</item>
+		<item quantity="few">%d item</item>
+		<item quantity="many">%d item</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+		<item quantity="other">%1$d file yang tersisa untuk di-download</item>
+		<item quantity="zero">%1$d file yang tersisa untuk di-download</item>
+		<item quantity="one">%1$d file yang tersisa untuk di-download</item>
+		<item quantity="two">%1$d file yang tersisa untuk di-download</item>
+		<item quantity="few">%1$d file yang tersisa untuk di-download</item>
+		<item quantity="many">%1$d file yang tersisa untuk di-download</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+		<item quantity="other">%1$d file yang tersisa untuk di-upload</item>
+		<item quantity="zero">%1$d file yang tersisa untuk di-upload</item>
+		<item quantity="one">%1$d file yang tersisa untuk di-upload</item>
+		<item quantity="two">%1$d file yang tersisa untuk di-upload</item>
+		<item quantity="few">%1$d file yang tersisa untuk di-upload</item>
+		<item quantity="many">%1$d file yang tersisa untuk di-upload</item>
+    </plurals>
+    <plurals name="ui_bar_txt_transport_progress">
+        <item quantity="other">%1$d file yang tersisa untuk dikirimkan</item>
+        <item quantity="zero">%1$d file yang tersisa untuk dikirimkan</item>
+        <item quantity="one">%1$d file yang tersisa untuk dikirimkan</item>
+        <item quantity="two">%1$d file yang tersisa untuk dikirimkan</item>
+        <item quantity="few">%1$d file yang tersisa untuk dikirimkan</item>
+        <item quantity="many">%1$d file yang tersisa untuk dikirimkan</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d dipilih</item>
+        <item quantity="zero">%1$d dipilih</item>
+        <item quantity="one">%1$d dipilih</item>
+        <item quantity="two">%1$d dipilih</item>
+        <item quantity="few">%1$d dipilih</item>
+        <item quantity="many">%1$d dipilih</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other"> (%1$d item)</item>
+        <item quantity="zero"> (%1$d item)</item>
+        <item quantity="one"> (%1$d item)</item>
+        <item quantity="two"> (%1$d item)</item>
+        <item quantity="few"> (%1$d item)</item>
+        <item quantity="many"> (%1$d item)</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other"> (%1$d item)</item>
+        <item quantity="zero"> (%1$d item)</item>
+        <item quantity="one"> (%1$d item)</item>
+        <item quantity="two"> (%1$d item)</item>
+        <item quantity="few"> (%1$d item)</item>
+        <item quantity="many"> (%1$d item)</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other"> %1$d item</item>
+        <item quantity="zero"> %1$d item</item>
+        <item quantity="one"> %1$d item</item>
+        <item quantity="two"> %1$d item</item>
+        <item quantity="few"> %1$d item</item>
+        <item quantity="many"> %1$d item</item>
+    </plurals>
+    <plurals name="search_head_hint_app">
+		<item quantity="other">App %1$s file terkait (%2$d item)</item>
+		<item quantity="zero">App %1$s file terkait (%2$d item)</item>
+		<item quantity="one">App %1$s file terkait (%2$d item)</item>
+		<item quantity="two">App %1$s file terkait (%2$d item)</item>
+		<item quantity="few">App %1$s file terkait (%2$d item)</item>
+		<item quantity="many">App %1$s file terkait (%2$d item)</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+		<item quantity="other">%1$s file terkait (%2$d item)</item>
+		<item quantity="zero">%1$s file terkait (%2$d item)</item>
+		<item quantity="one">%1$s file terkait (%2$d item)</item>
+		<item quantity="two">%1$s file terkait (%2$d item)</item>
+		<item quantity="few">%1$s file terkait (%2$d item)</item>
+		<item quantity="many">%1$s file terkait (%2$d item)</item>
+    </plurals>
+    <plurals name="search_head_hint_tag">
+		<item quantity="other">Tag %1$s file terkait (%2$d item)</item>
+		<item quantity="zero">Tag %1$s file terkait (%2$d item)</item>
+		<item quantity="one">Tag %1$s file terkait (%2$d item)</item>
+		<item quantity="two">Tag %1$s file terkait (%2$d item)</item>
+		<item quantity="few">Tag %1$s file terkait (%2$d item)</item>
+		<item quantity="many">Tag %1$s file terkait (%2$d item)</item>
+    </plurals>
+    <plurals name="mins_ago">
+		<item quantity="other">%1$d menit yang lalu</item>
+		<item quantity="zero">%1$d menit yang lalu</item>
+		<item quantity="one">%1$d min yang lalu</item>
+		<item quantity="two">%1$d menit yang lalu</item>
+		<item quantity="few">%1$d menit yang lalu</item>
+		<item quantity="many">%1$d menit yang lalu</item>
+    </plurals>
+    <plurals name="hours_ago">
+		<item quantity="other">%1$d jam yang lalu</item>
+		<item quantity="zero">%1$d jam yang lalu</item>
+		<item quantity="one">%1$d jam yang lalu</item>
+		<item quantity="two">%1$d jam yang lalu</item>
+		<item quantity="few">%1$d jam yang lalu</item>
+		<item quantity="many">%1$d jam yang lalu</item>
+    </plurals>
+    <plurals name="days_ago">
+		<item quantity="other">%1$d hari lalu</item>
+		<item quantity="zero">%1$d hari lalu</item>
+		<item quantity="one">%1$d hari yang lalu</item>
+		<item quantity="two">%1$d hari lalu</item>
+		<item quantity="few">%1$d hari lalu</item>
+		<item quantity="many">%1$d hari lalu</item>
+    </plurals>
+    <plurals name="seconds">
+		<item quantity="other">%1$d detik</item>
+		<item quantity="zero">%1$d detik</item>
+		<item quantity="one">%1$d detik</item>
+		<item quantity="two">%1$d detik</item>
+		<item quantity="few">%1$d detik</item>
+		<item quantity="many">%1$d detik</item>
+    </plurals>
+    <plurals name="mins">
+		<item quantity="other">%1$d menit</item>
+		<item quantity="zero">%1$d menit</item>
+		<item quantity="one">%1$d menit</item>
+		<item quantity="two">%1$d menit</item>
+		<item quantity="few">%1$d menit</item>
+		<item quantity="many">%1$d menit</item>
+    </plurals>
+    <plurals name="hours">
+		<item quantity="other">%1$d jam</item>
+		<item quantity="zero">%1$d jam</item>
+		<item quantity="one">%1$d jam</item>
+		<item quantity="two">%1$d jam</item>
+		<item quantity="few">%1$d jam</item>
+		<item quantity="many">%1$d jam</item>
+    </plurals>
+    <plurals name="days">
+		<item quantity="other">%1$d hari</item>
+		<item quantity="zero">%1$d hari</item>
+		<item quantity="one">%1$d hari</item>
+		<item quantity="two">%1$d hari</item>
+		<item quantity="few">%1$d hari</item>
+		<item quantity="many">%1$d hari</item>
+    </plurals>
+    <plurals name="found_new_files">
+		<item quantity="other">Ditemukan %1$d file baru</item>
+		<item quantity="zero">Ditemukan %1$d file baru</item>
+		<item quantity="one">Ditemukan %1$d file baru</item>
+		<item quantity="two">Ditemukan %1$d file baru</item>
+		<item quantity="few">Ditemukan %1$d file baru</item>
+		<item quantity="many">Ditemukan %1$d file baru</item>
+    </plurals>
+    <plurals name="file_notify_title">
+		<item quantity="other">Menerima %1$d file dari App %2$s</item>
+		<item quantity="zero">Menerima %1$d file App %2$s</item>
+		<item quantity="one">Menerima %1$d file App %2$s</item>
+		<item quantity="two">Menerima %1$d file dari App %2$s</item>
+		<item quantity="few">Menerima %1$d file dari App %2$s</item>
+		<item quantity="many">Menerima %1$d file dari App %2$s</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video">
+		<item quantity="other">Menerima %1$d file dari WeChat</item>
+		<item quantity="zero">Menerima %1$d file WeChat</item>
+		<item quantity="one">Menerima %1$d file WeChat</item>
+		<item quantity="two">Menerima %1$d file dari WeChat</item>
+		<item quantity="few">Menerima %1$d file dari WeChat</item>
+		<item quantity="many">Menerima %1$d file dari WeChat</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_expire">
+		<item quantity="other">%1$d video WeChat yang hampir kedaluwarsa</item>
+		<item quantity="zero">%1$d video WeChat yang hampir kedaluwarsa</item>
+		<item quantity="one">%1$d video WeChat yang hampir kedaluwarsa</item>
+		<item quantity="two">%1$d video WeChat yang hampir kedaluwarsa</item>
+		<item quantity="few">%1$d video WeChat yang hampir kedaluwarsa</item>
+		<item quantity="many">%1$d video WeChat yang hampir kedaluwarsa</item>
+    </plurals>
+    <plurals name="backup_message_wechat_video">
+		<item quantity="other">%1$d video dalam percakapan WeChat hampir kadaluarsa. Cadangkan ke penyimpanan internal perangkat Anda?</item>
+		<item quantity="zero">%1$d video dalam percakapan WeChat hampir kadaluarsa. Cadangkan ke penyimpanan internal perangkat Anda?</item>
+		<item quantity="one">%1$d video dalam percakapan WeChat hampir kadaluarsa. Cadangkan ke penyimpanan internal perangkat Anda?</item>
+		<item quantity="two">%1$d video dalam percakapan WeChat hampir kadaluarsa. Cadangkan ke penyimpanan internal perangkat Anda?</item>
+		<item quantity="few">%1$d video dalam percakapan WeChat hampir kadaluarsa. Cadangkan ke penyimpanan internal perangkat Anda?</item>
+		<item quantity="many">%1$d video dalam percakapan WeChat hampir kadaluarsa. Cadangkan ke penyimpanan internal perangkat Anda?</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_sticker">
+        <item quantity="other">%1$d sticker WeChat baru hari ini</item>
+        <item quantity="zero">%1$d sticker WeChat baru hari ini</item>
+        <item quantity="one">%1$d sticker WeChat baru hari ini</item>
+        <item quantity="two">%1$d sticker WeChat baru hari ini</item>
+        <item quantity="few">%1$d sticker WeChat baru hari ini</item>
+        <item quantity="many">%1$d sticker WeChat baru hari ini</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_auto_backup">
+        <item quantity="other">Mencadangkan %1$d video WeChat.</item>
+        <item quantity="zero">Mencadangkan %1$d video WeChat.</item>
+        <item quantity="one">Mencadangkan 1 video WeChat.</item>
+        <item quantity="two">Mencadangkan %1$d video WeChat.</item>
+        <item quantity="few">Mencadangkan %1$d video WeChat.</item>
+        <item quantity="many">Mencadangkan %1$d video WeChat.</item>
+    </plurals>
+    <plurals name="remote_video_update">
+		<item quantity="other">Ditemukan %1$s video baru</item>
+		<item quantity="zero">Ditemukan %1$s video baru</item>
+		<item quantity="one">Ditemukan %1$s video baru</item>
+		<item quantity="two">Ditemukan %1$s video baru</item>
+		<item quantity="few">Ditemukan %1$s video baru</item>
+		<item quantity="many">Ditemukan %1$s video baru</item>
+    </plurals>
+    <plurals name="video_ad_download_tip">
+        <item quantity="other"> Download</item>
+        <item quantity="zero"> Download</item>
+        <item quantity="one"> Download</item>
+        <item quantity="two"> Download</item>
+        <item quantity="few"> Download</item>
+        <item quantity="many"> Download</item>
+    </plurals>
+    <plurals name="video_play_num">
+        <item quantity="other">%1$s dilihat</item>
+        <item quantity="zero">%1$s dilihat</item>
+        <item quantity="one">%1$s dilihat</item>
+        <item quantity="two">%1$s dilihat</item>
+        <item quantity="few">%1$s dilihat</item>
+        <item quantity="many">%1$s dilihat</item>
+    </plurals>
+    <plurals name="video_num">
+        <item quantity="other">%1$s video</item>
+        <item quantity="zero">%1$s video</item>
+        <item quantity="one">%1$s video</item>
+        <item quantity="two">%1$s video</item>
+        <item quantity="few">%1$s video</item>
+        <item quantity="many">%1$s video</item>
+    </plurals>
+    <plurals name="follower_num">
+		<item quantity="other">pengikut</item>
+		<item quantity="zero">pengikut</item>
+		<item quantity="one">pengikut</item>
+		<item quantity="two">pengikut</item>
+		<item quantity="few">pengikut</item>
+		<item quantity="many">pengikut</item>
+    </plurals>
+    <plurals name="user_upload_items">
+		<item quantity="other">video</item>
+		<item quantity="zero">video</item>
+		<item quantity="one">video</item>
+		<item quantity="two">video</item>
+		<item quantity="few">video</item>
+		<item quantity="many">video</item>
+    </plurals>
+    <plurals name="number_of_comment">
+        <item quantity="other">%1$s komentar</item>
+        <item quantity="zero">%1$s komentar</item>
+        <item quantity="one">%1$s komentar</item>
+        <item quantity="two">%1$s komentar</item>
+        <item quantity="few">%1$s komentar</item>
+        <item quantity="many">%1$s komentar</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">%1$s video</item>
+        <item quantity="zero">%1$s video</item>
+        <item quantity="one">%1$s video</item>
+        <item quantity="two">%1$s video</item>
+        <item quantity="few">%1$s video</item>
+        <item quantity="many">%1$s video</item>
+    </plurals>
+</resources>

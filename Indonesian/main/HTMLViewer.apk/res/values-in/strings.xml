@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="app_label">HTML Viewer</string>
+	<string name="app_name_which_call">Aplikasi</string>
+	<string name="app_version_which_call">Versi aplikasi: %s</string>
+	<string name="license_host_unreachable">Tidak dapat terhubung ke jaringan. Untuk melihat informasi ini sekarang, buka %s</string>
+	<string name="loading">Pemuatan…</string>
+	<string name="mibi_license">Syarat mi Kredit Layanan</string>
+	<string name="open_wifi_connect_summary">Ketuk untuk melihat rincian.</string>
+	<string name="open_wifi_connect_title">Menyambung ke %1$s</string>
+	<string name="permdesc_accessDrm">Memungkinkan aplikasi untuk mengakses konten yang dilindungi DRM.</string>
+	<string name="policy_name">Kebijakan: %s</string>
+	<string name="settings_license_activity_loading">Pemuatan…</string>
+	<string name="settings_license_activity_title">lisensi open source</string>
+	<string name="settings_license_activity_unavailable">Ada masalah saat memuat lisensi.</string>
+	<string name="settings_safetylegal_activity_loading">Pemuatan…</string>
+	<string name="settings_safetylegal_activity_title">Informasi keselamatan</string>
+	<string name="settings_safetylegal_activity_unreachable">Anda tidak memiliki sambungan data. Untuk melihat informasi ini sekarang, buka% s dari komputer manapun yang terhubung ke Internet.</string>
+	<string name="settings_safetylegal_title">Informasi keselamatan</string>
+</resources>

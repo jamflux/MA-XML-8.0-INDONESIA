@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="alphabet">Alfabet</string>
+	<string name="app_name">Toolkit SIM</string>
+	<string name="app_name2">SIM Toolkit2</string>
+	<string name="app_name3">SIM Toolkit3</string>
+	<string name="button_cancel">Membatalkan</string>
+	<string name="button_no">Tidak</string>
+	<string name="button_ok">Oke</string>
+	<string name="button_yes">Ya</string>
+	<string name="default_call_setup_msg">Panggilan berlangsung…</string>
+	<string name="default_close_channel_msg">Saluran tertutup</string>
+	<string name="default_open_channel_msg">Buka Saluran?</string>
+	<string name="default_receive_data_msg">Menerima data</string>
+	<string name="default_send_data_msg">Mengirim data</string>
+	<string name="default_setup_call_msg">Panggilan sedang disiapkan</string>
+	<string name="default_tone_dialog_msg">Memainkan nada</string>
+	<string name="digits">Digit (0-9, *, #, +)</string>
+	<string name="disable_app">Non aktifkan</string>
+	<string name="enable_app">Diaktifkan</string>
+	<string name="help">Membantu</string>
+	<string name="menu_back">Kembali</string>
+	<string name="menu_end_session">Sesi akhir</string>
+	<string name="service_name">Nama layanan</string>
+	<string name="stk_app_state">Negara aplikasi</string>
+	<string name="stk_dialog_accept">Ya</string>
+	<string name="stk_dialog_reject">Tidak</string>
+	<string name="stk_dialog_title">Perkakas SIM</string>
+	<string name="stk_intent_permission">Memungkinkan STK Intents</string>
+	<string name="stk_no_service">Tidak ada layanan yang tersedia</string>
+</resources>

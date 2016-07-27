@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Hapus %1$s percakapan yang dipilih?</item>
+        <item quantity="one">Hapus percakapan ini?</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s detik</item>
+        <item quantity="one">%s detik</item>
+        <item quantity="few">%s detik</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%s detik</item>
+        <item quantity="one">%s detik</item>
+        <item quantity="few">%s detik</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s hasil utk \"%2$s\"</item>
+        <item quantity="one">%1$s hasil utk \"%2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s orang</item>
+        <item quantity="one">1 orang</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d pesan</item>
+        <item quantity="zero">0 pesan</item>
+        <item quantity="one">1 pesan</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"%d pesan haven't been synced"</item>
+        <item quantity="one">"1 pesan hasn't been synced"</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s pesan</item>
+        <item quantity="one">%1$s pesan</item>
+    </plurals>
+</resources>

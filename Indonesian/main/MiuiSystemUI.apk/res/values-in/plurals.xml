@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d aplikasi terakhir</item>
+        <item quantity="one">1 aplikasi terakhir</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">"Sembunyikan notifikasi aplikasi %d?"</item>
+        <item quantity="one">"Sembunyikan notifikasi aplikasi ini?"</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Bersih</item>
+        <item quantity="one">Cerah</item>
+    </plurals>
+</resources>

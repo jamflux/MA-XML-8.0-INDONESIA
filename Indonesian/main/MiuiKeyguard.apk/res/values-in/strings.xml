@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="click_to_enter_text">Ketuk untuk melihat</string>
+	<string name="confirm_pin_msg">Masukkan PIN lagi</string>
+	<string name="default_lockscreen_unlock_hint_text">Usap ke atas untuk membuka</string>
+	<string name="delete">Menghapus</string>
+	<string name="emergency_call_string">Keadaan darurat</string>
+	<string name="experimental_try_string">Mencoba</string>
+	<string name="experimental_validate">Mengesahkan</string>
+	<string name="experimental_validate_fail">Tidak bisa masuk</string>
+	<string name="experimental_validate_password">Kata sandi</string>
+	<string name="experimental_validate_progress">Masuk…</string>
+	<string name="experimental_validate_thanks">Terima kasih!</string>
+	<string name="experimental_validate_username">Nama pengguna</string>
+	<string name="experimental_validate_warning">Terima kasih untuk membantu membuat MIUI lebih baik!</string>
+	<string name="find_device_turn_off_flight_mode">Mematikan mode pesawat</string>
+	<string name="fingerprint_lockout_msg">Tunggu sebentar, kemudian coba lagi membuka dengan sidik jari Anda</string>
+	<string name="fingerprint_not_identified_msg">Untuk membuka kunci perangkat Anda, masukkan password Anda.</string>
+	<string name="fingerprint_not_identified_title">Masukkan kata kunci</string>
+	<string name="fingerprint_try_again_text">Coba lagi</string>
+	<string name="forget_password_string">Lupa kata sandi</string>
+	<string name="incorrect_pincode">Kode PIN yang salah</string>
+	<string name="incorrect_pincode_remaining_attempts">Kode PIN yang salah, %d upaya tersisa</string>
+	<string name="incorrect_pukcode">Kode PUK</string>
+	<string name="incorrect_pukcode_remaining_attempts">Salah PUK, %d upaya tersisa</string>
+	<string name="input_password_after_boot_msg">Untuk membuka kunci perangkat, masukkan password Anda</string>
+	<string name="input_password_hint_text">Masukkan kata kunci</string>
+	<string name="input_pin_code">Masukkan PIN</string>
+	<string name="input_puk_code">Masukan PUK</string>
+	<string name="invalid_confirm_pin_hint">PIN tidak cocok</string>
+	<string name="invalid_sim_pin_hint">PIN harus berisi 4 sampai 8 angka</string>
+	<string name="invalid_sim_puk_hint">PUK harus setidaknya 8 angka</string>
+	<string name="keyguard_torch_cover_text">Untuk menjaga obor di, tahan tombol Daya</string>
+	<string name="lock_screen_date">EEEE, MMMM d</string>
+	<string name="lock_screen_date_12">EEEE, MMMM d</string>
+	<string name="lockscreen_access_pattern_cell_added">Sel ditambahkan</string>
+	<string name="lockscreen_access_pattern_cleared">Pola dibersihkan</string>
+	<string name="lockscreen_access_pattern_detected">Pola selesai</string>
+	<string name="lockscreen_access_pattern_start">Pola mulai</string>
+	<string name="lockscreen_charging_msg">Pengisian</string>
+	<string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Anda telah gagal mencoba untuk membuka ponsel %d kali. Setelah %d upaya gagal lagi, ponsel akan diatur ulang ke default pabrik dan semua data pengguna akan hilang.</string>
+	<string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Anda telah salah memasukkan password %d kali. Setelah %d upaya gagal, Anda akan diminta untuk membuka kunci ponsel menggunakan Anda Mi Akun masuk. Coba lagi dalam %d detik.</string>
+	<string name="lockscreen_failed_attempts_now_wiping">Anda telah gagal mencoba untuk membuka ponsel %d kali. Ponsel ini sekarang akan dikembalikan ke default pabrik.</string>
+	<string name="lockscreen_glogin_checking_password">Memeriksa ...</string>
+	<string name="lockscreen_glogin_invalid_input">Username dan password salah.</string>
+	<string name="lockscreen_glogin_password_hint">Kata sandi</string>
+	<string name="lockscreen_glogin_submit_button">Masuk</string>
+	<string name="login_website_in_case_forget_password">Untuk mereset password Anda, pergi ke www.mi.com/micloud</string>
+	<string name="missed_call_text">%d panggilan tak terjawab</string>
+	<string name="miui_keyguard_ble_unlock_succeed_msg">Dibuka dengan perangkat Bluetooth</string>
+	<string name="open_camera_hint_text">Geser ke kiri untuk membuka Camera</string>
+	<string name="open_remote_center_hint_text">Gesek ke kanan untuk membuka Mi Jarak Jauh</string>
+	<string name="open_wifi_settings">Koneksi jaringan terbuka</string>
+	<string name="phone_locked_string">Telepon telah dikunci</string>
+	<string name="phone_locked_timeout_minutes_string">Coba lagi dalam %s menit</string>
+	<string name="phone_locked_timeout_seconds_string">Coba lagi dalam %s detik</string>
+	<string name="unlock_sim_string">Membuka SIM</string>
+	<string name="unlock_string">Membuka kunci</string>
+	<string name="unlocking_sim_card">Membuka kartu SIM</string>
+	<string name="unlockscreen_low_battery">Hubungkan charger sekarang</string>
+	<string name="unlockscreen_recharge_completed">Baterai yang terisi</string>
+	<string name="unlockscreen_recharging_message">Pengisian %d%%</string>
+	<string name="wrong_password">Kata kunci Salah</string>
+</resources>

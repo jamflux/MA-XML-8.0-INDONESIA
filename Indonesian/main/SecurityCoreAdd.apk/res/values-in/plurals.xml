@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fileCount">
+        <item quantity="other">%d item</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="first_space_notification_format">
+        <item quantity="other">%d pemberitahuan di ruang pertama</item>
+        <item quantity="one">%d pemberitahuan di ruang pertama</item>
+    </plurals>
+    <plurals name="second_space_notification_format">
+        <item quantity="other">%d pemberitahuan di ruang kedua</item>
+        <item quantity="one">%d pemberitahuan di ruang kedua</item>
+    </plurals>
+</resources>

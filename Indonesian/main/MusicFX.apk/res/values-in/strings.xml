@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="app_name">Efek Musik</string>
+	<string name="bass_boost_strength">Bass boost</string>
+	<string name="ci_extreme">Elektronik</string>
+	<string name="classical">Klasik</string>
+	<string name="dance">Menari</string>
+	<string name="eq_custom">Untuk menyesuaikan, pilih "Custom"</string>
+	<string name="eq_dialog_title">Snapdragon Audio+</string>
+	<string name="flat">Datar</string>
+	<string name="folk">Rakyat</string>
+	<string name="headset_plug">Pasang di headphone untuk efek ini.</string>
+	<string name="heavy_metal">Heavy Metal</string>
+	<string name="hip_hop">Hip Hop</string>
+	<string name="jazz">Jazz</string>
+	<string name="largehall">Aula Luas</string>
+	<string name="largeroom">Ruangan Luas</string>
+	<string name="main_toggle_effects_title">Efek audio</string>
+	<string name="mediumhall">Aula sedang</string>
+	<string name="mediumroom">Ruang sedang</string>
+	<string name="no_effects">Efek tidak tersedia.</string>
+	<string name="none">Tak satupun</string>
+	<string name="normal">Normal</string>
+	<string name="picker_title">Panel musik efek kontrol</string>
+	<string name="plate">Plate</string>
+	<string name="pop">Pop</string>
+	<string name="power_on_prompt">Tekan tombol power di bagian atas kanan.</string>
+	<string name="pr_dialog_title">Reverb yang telah ditetapkan</string>
+	<string name="pr_summary">Efek ruang gema tambahan</string>
+	<string name="pr_title">Berkumandang:</string>
+	<string name="rock">Rock</string>
+	<string name="setup">Mempersiapkan</string>
+	<string name="smallroom">Ruangan kecil</string>
+	<string name="user">Custom</string>
+	<string name="virtualizer_strength">Suara sekitar</string>
+</resources>

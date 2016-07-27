@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="app_name">Plugin layanan keamanan</string>
+	<string name="app_not_installed_toast">Aplikasi tidak diinstal pada perangkat Anda.</string>
+	<string name="cancel_button">Membatalkan</string>
+	<string name="empty"> </string>
+	<string name="main_toolbar_purchase">Top up</string>
+	<string name="miuishare_title_more">Lebih</string>
+	<string name="miuishare_title_share">Bagikan</string>
+	<string name="miuishare_wechat_timeline_title">WeChat Moments</string>
+	<string name="miuishare_weibo_title">Weibo</string>
+	<string name="month_report_activity_label">Laporan bulanan</string>
+	<string name="month_report_click_reconnect_network">Coba lagi</string>
+	<string name="month_report_disconnect_tip">Tidak dapat terhubung ke jaringan</string>
+	<string name="month_report_follow_service_negative">Tidak, terima kasih</string>
+	<string name="month_report_follow_service_positive">Mengikuti</string>
+	<string name="month_report_follow_service_summary">Tetap up to date dengan berita keamanan dan info dengan mengikuti akun resmi MIUI Keamanan aplikasi.</string>
+	<string name="month_report_follow_service_title">Update keamanan</string>
+	<string name="month_report_history_activity_label">Laporan riwayat</string>
+	<string name="month_report_network_dialog_description">Izinkan aplikasi ini untuk terhubung ke internet untuk mendapatkan melaporkan Info?</string>
+	<string name="month_report_network_dialog_positive">Mengizinkan</string>
+	<string name="month_report_network_dialog_title">Tidak bisa melaporkan info</string>
+	<string name="month_report_result_share">Bagikan</string>
+	<string name="month_report_share_img_fail">Tidak dapat berbagi</string>
+	<string name="month_report_share_loading">Tunggu sebentar…</string>
+	<string name="month_report_warning_dialog_description">Untuk melihat laporan bulanan, mengaktifkan fitur ini di Pengaturan Keamanan aplikasi.</string>
+	<string name="month_report_warning_dialog_positive">Nyalakan</string>
+	<string name="month_report_warning_dialog_title">Laporan keamanan bulanan</string>
+	<string name="network_not_available">Tidak dapat terhubung ke jaringan</string>
+	<string name="no_network_btn">Coba lagi</string>
+	<string name="ok_button">Oke</string>
+	<string name="open_browser">Buka di browser</string>
+	<string name="pc_activity_title">Mengoptimalkan baterai</string>
+	<string name="pm_lable_name">Tentang akses root</string>
+	<string name="privacy_declare_dialog_title">Ketentuan Layanan</string>
+	<string name="privacy_prompt_traffic_purchase_message">Jumlah dan operator telepon Anda rincian akan dienkripsi dan upload ke server Mi untuk mendapatkan info lebih lanjut tentang opsi pembelian data.</string>
+	<string name="share">Bagikan</string>
+	<string name="title_share_link">URL Share</string>
+	<string name="usage_sorted_loading_text">Tunggu sebentar…</string>
+</resources>

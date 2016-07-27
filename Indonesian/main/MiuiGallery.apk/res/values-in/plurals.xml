@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">"Jangan tampilkan orang-orang ini?"</item>
+        <item quantity="one">"Jangan tampilkan orang ini?"</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s foto dari %2$s >></item>
+        <item quantity="one">%1$s foto dari %2$s >></item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d tahun</item>
+        <item quantity="one">%d tahun</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d bulan</item>
+        <item quantity="one">%d bulan</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d hari</item>
+        <item quantity="one">%d hari</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d foto dari %2$s akan ditambahkan</item>
+        <item quantity="one">%1$d foto dari %2$s akan ditambahkan</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d foto dari %2$s akan ditambahkan</item>
+        <item quantity="one">%1$d foto dari %2$s akan ditambahkan</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">Dibagikan ke %d orang</item>
+        <item quantity="one">Dibagikan ke  %d orang</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">Foto yang dipilih tidak ada pada perangkat, download menggunakan data seluler?</item>
+        <item quantity="one">Foto yang dipilih tidak ada pada perangkat, download menggunakan data seluler?</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">Foto yang dipilih tidak ada pada perangkat (%dMB), download menggunakan data seluler?</item>
+        <item quantity="one">Foto yang dipilih tidak ada pada perangkat (%dMB), download menggunakan data seluler?</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">Foto yang dipilih tidak ada pada perangkat, mendownload</item>
+        <item quantity="one">Foto yang dipilih tidak ada pada perangkat, mendownload</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">%1$d foto gagal didownload, coba lagi?</item>
+        <item quantity="one">one foto gagal didownload, coba lagi?</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">%1$d foto (%2$dMB) gagal didownload, coba lagi?</item>
+        <item quantity="one">satu %1$d foto (%2$dMB) gagal didownload, coba lagi?</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">Batalkan mendownload tersisa %d foto?</item>
+        <item quantity="one">Batalkan mendownload tersisa satu foto?</item>
+    </plurals>
+    <plurals name="delete_photo_msg_format">
+        <item quantity="other">Hapus %1$d foto %2$s?</item>
+        <item quantity="one">Hapus foto ini %2$s?</item>
+    </plurals>
+    <plurals name="delete_video_msg_format">
+        <item quantity="other">Hapus %1$d video %2$s?</item>
+        <item quantity="one">Hapus video ini %2$s?</item>
+    </plurals>
+    <plurals name="delete_media_msg_format">
+        <item quantity="other">Hapus %1$d item %2$s?</item>
+        <item quantity="one">Hapus %1$d item %2$s?</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d item)</item>
+        <item quantity="one">(%d item)</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">%d photo</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d item | %2$s</item>
+        <item quantity="one">%1$d item | %2$s</item>
+    </plurals>
+    <plurals name="backuped">
+        <item quantity="other">%1$d item telah dibackup</item>
+        <item quantity="one">%1$d item telah dibackup</item>
+    </plurals>
+    <plurals name="backup_waiting">
+        <item quantity="other">%1$d item menunggu dibackup</item>
+        <item quantity="one">%1$d item menunggu dibackup</item>
+    </plurals>
+    <plurals name="network_unsatisfied">
+        <item quantity="other">Kesalahan jaringan. %1$d item menunggu dibackup</item>
+        <item quantity="one">Kesalahan jaringan. %1$d item menunggu dibackup</item>
+    </plurals>
+    <plurals name="sync_off">
+        <item quantity="other">Sinkronisasi mati. %1$d item menunggu dibackup</item>
+        <item quantity="one">Sinkronisasi mati. %1$d item menunggu dibackup</item>
+    </plurals>
+    <plurals name="cloud_space_full">
+        <item quantity="other">Mi Cloud penuh. %1$d item menunggu dibackup</item>
+        <item quantity="one">Mi Cloud penuh. %1$d item menunggu dibackup</item>
+    </plurals>
+    <plurals name="local_space_full">
+        <item quantity="other">Penyimpanan lokal tidak cukup. %1$d item menunggu dibackup</item>
+        <item quantity="one">Penyimpanan lokal tidak cukup. %1$d item menunggu dibackup</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d foto menunggu dibackup</item>
+        <item quantity="one">1 foto menunggu dibackup</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d video menunggu dibackup</item>
+        <item quantity="one">1 video menunggu dibackup</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d item menunggu dibackup</item>
+        <item quantity="one">1 item menunggu dibackup</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Membackup %1$d foto</item>
+        <item quantity="one">Membackup foto</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Membackup %1$d video…</item>
+        <item quantity="one">Membackup video…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Membackup %1$d item…</item>
+        <item quantity="one">Membackup 1 item…</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">"Tidak bisa mendownload %1$d file"</item>
+        <item quantity="one">"Tidak bisa mendownload %1$d file"</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d items dipilih</item>
+        <item quantity="one">%d item dipilih</item>
+    </plurals>
+</resources>

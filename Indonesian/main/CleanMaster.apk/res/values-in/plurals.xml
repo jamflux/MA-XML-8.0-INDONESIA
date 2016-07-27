@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d menit yang lalu</item>
+        <item quantity="zero">%1$d menit yang lalu</item>
+        <item quantity="one">%1$d menit yang lalu</item>
+        <item quantity="two">%1$d menit yang lalu</item>
+        <item quantity="few">%1$d menit yang lalu</item>
+        <item quantity="many">%1$d menit yang lalu</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d jam yang lalu</item>
+        <item quantity="zero">%1$d jam yang lalu</item>
+        <item quantity="one">%1$d jam yang lalu</item>
+        <item quantity="two">%1$d jam yang lalu</item>
+        <item quantity="few">%1$d jam yang lalu</item>
+        <item quantity="many">%1$d jam yang lalu</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d hari yang lalu</item>
+        <item quantity="zero">%1$d hari yang lalu</item>
+        <item quantity="one">%1$d hari yang lalu</item>
+        <item quantity="two">%1$d hari yang lalu</item>
+        <item quantity="few">%1$d hari yang lalu</item>
+        <item quantity="many">%1$d hari yang lalu</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">Didownload oleh %1$d orang</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Didownload oleh %1$d orang</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">Didownload oleh %1$d orang</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d dilihat</item>
+        <item quantity="zero">%1$d dilihat</item>
+        <item quantity="one">%1$d dilihat</item>
+        <item quantity="two">%1$d dilihat</item>
+        <item quantity="few">%1$d dilihat</item>
+        <item quantity="many">%1$d dilihat</item>
+    </plurals>
+    <plurals name="hint_similar_image_header_left">
+        <item quantity="other">%d grup</item>
+        <item quantity="one">%d grup</item>
+    </plurals>
+    <plurals name="deepclean_cache_summary">
+        <item quantity="other">Anda dapat menghapus data tdk penting untuk %d aplikasi</item>
+        <item quantity="one">Anda dapat menghapus data tdk penting untuk aplikasi</item>
+    </plurals>
+    <plurals name="deepclean_app_summary">
+        <item quantity="other">%d aplikasi terinstal, Anda dapat menghapus aplikasi yg jarang digunakan </item>
+        <item quantity="one">%d aplikasi diinstal, Anda dapat menghapus yg ini</item>
+    </plurals>
+    <plurals name="deepclean_large_summary">
+        <item quantity="other">Ditemukan %d file-file besar, Anda dapat menghapus yang tidak penting</item>
+        <item quantity="one">Ditemukan %d file besar, Anda dapat menghapus yang ini</item>
+    </plurals>
+    <plurals name="deepclean_similar_summary">
+        <item quantity="other">Ditemukan %d foto-foto lama, Anda dapat menghapus gambar duplikat atau berlebihan</item>
+        <item quantity="one">Ditemukan %d foto-foto lama, Anda dapat menghapus gambar duplikat atau berlebihan</item>
+    </plurals>
+    <plurals name="deepclean_apk_summary">
+        <item quantity="other">Ditemukan %d APP, Anda dapat menghapus yang tidak perlu.</item>
+        <item quantity="one">Ditemukan %d APP, Anda dapat menghapus ini.</item>
+    </plurals>
+    <plurals name="deepclean_video_summary">
+        <item quantity="other">Ditemukan %d video, Anda dapat menghapus yang tidak perlu.​</item>
+        <item quantity="one">Ditemukan %d video, Anda dapat menghapus ini.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="allow_button">Mengizinkan</string>
+	<string name="app_name">Gantungan kunci</string>
+	<string name="deny_button">Menyangkal</string>
+	<string name="install_new_cert_button_label">Memasang</string>
+	<string name="install_new_cert_message">Anda dapat menginstal sertifikat dari file PKCS#12 dengan %1$s atau %2$s ekstensi terletak di penyimpanan eksternal.</string>
+	<string name="requesting_application">Aplikasi %s telah meminta sertifikat. Memilih sertifikat akan membiarkan aplikasi menggunakan identitas ini dengan server sekarang dan di masa depan.</string>
+	<string name="requesting_server">Aplikasi ini telah mengidentifikasi server yang meminta sebagai% s, tetapi Anda hanya harus memberikan akses aplikasi untuk sertifikat jika Anda percaya app.</string>
+	<string name="title_no_certs">Tidak ada sertifikat ditemukan</string>
+	<string name="title_select_cert">Pilih sertifikat</string>
+</resources>

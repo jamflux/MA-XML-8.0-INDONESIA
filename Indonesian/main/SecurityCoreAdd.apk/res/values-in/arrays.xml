@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="switch_apps_entries">
+        <item>Digunakan dalam ruang Pertama</item>
+        <item>Digunakan dalam ruang Kedua</item>
+        <item>Digunakan di kedua ruang</item>
+    </string-array>
+    <string-array name="switch_apps_title_confirms">
+        <item>Data aplikasi akan hilang</item>
+        <item>Data aplikasi akan hilang</item>
+        <item>Perhatian</item>
+    </string-array>
+    <string-array name="switch_apps_msg_confirms">
+        <item>Data aplikasi akan hilang setelah aplikasi dipindahkan ke ruang pertama.</item>
+        <item>Data aplikasi akan hilang setelah aplikasi dipindahkan ke ruang kedua.</item>
+        <item>Aplikasi digunakan dalam kedua ruang.</item>
+    </string-array>
+</resources>

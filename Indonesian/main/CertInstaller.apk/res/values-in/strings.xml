@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="app_name">Installer sertifikat </string>
+	<string name="cert_is_added">%s diinstal.</string>
+	<string name="cert_missing_error">Tidak dapat memasang karena berkas sertifikat tidak bisa ditemukan.</string>
+	<string name="cert_not_saved">sertifikat tidak diinstal.</string>
+	<string name="cert_read_error">Tidak dapat memasang karena berkas sertifikat tidak dapat dibaca.</string>
+	<string name="cert_too_large_error">Tidak dapat memasang karena ukuran sertifikat terlalu besar.</string>
+	<string name="credential_info">Paket ini berisi:</string>
+	<string name="credential_name">Sertifikat:</string>
+	<string name="credential_password">Ketik password untuk mengekstrak sertifikat.</string>
+	<string name="credential_usage_label">Penggunaan Bukti:</string>
+	<string name="extracting_pkcs12">Penggalian ...</string>
+	<string name="invalid_cert">sertifikat tidak valid.</string>
+	<string name="n_cacrts">%d sertifikat CA</string>
+	<string name="name_char_error">Ketik nama yang hanya berisi huruf dan angka.</string>
+	<string name="name_credential_dialog_title">Nama sertifikat</string>
+	<string name="name_empty_error">Ketik nama.</string>
+	<string name="no_cert_file_found">Tidak ada berkas sertifikat dalam penyimpanan USB.</string>
+	<string name="no_cert_to_saved">Tidak ada sertifikat untuk menginstal.</string>
+	<string name="one_cacrt">Sertifikat satu CA</string>
+	<string name="one_usercrt">Sertifikat satu pengguna</string>
+	<string name="one_userkey">Kunci satu pengguna</string>
+	<string name="only_primary_user_allowed">Hanya pemilik perangkat ini dapat menginstal sertifikat.</string>
+	<string name="p12_description">Sertifikat di PKCS12 keystore.</string>
+	<string name="password_empty_error">Ketik sandi.</string>
+	<string name="password_error">Ketik password yang benar.</string>
+	<string name="pick_file_title">Pilih sertifikat</string>
+	<string name="pkcs12_file_password_dialog_title">Ekstrak dari %s</string>
+	<string name="pkcs12_password_dialog_title">sertifikat ekstrak</string>
+	<string name="sdcard_not_present">Penyimpanan USB tidak tersedia.</string>
+	<string name="storage_error">Tidak dapat menyimpan sertifikat. Sentuh OK untuk mencoba lagi.</string>
+	<string name="unable_to_save_cert">Tidak dapat menyimpan sertifikat. Penyimpanan kredensial tidak diaktifkan atau benar diinisialisasi.</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="action_consumes_rights">Hak akan digunakan untuk memutar media ini</string>
+	<string name="app_label">dokumen</string>
+	<string name="create_error">Gagal membuat folder</string>
+	<string name="drawer_close">menyembunyikan akar</string>
+	<string name="drawer_open">Tampilkan akar</string>
+	<string name="drm_license_info">Info lisensi drm</string>
+	<string name="empty">Tidak ada barang</string>
+	<string name="menu_advanced_hide">Sembunyikan penyimpanan internal</string>
+	<string name="menu_advanced_show">Tampilkan penyimpanan internal</string>
+	<string name="menu_create_dir">Membuat folder</string>
+	<string name="menu_delete">Menghapus</string>
+	<string name="menu_file_size_hide">Ukuran Sembunyikan File</string>
+	<string name="menu_file_size_show">Tampilkan ukuran file yang</string>
+	<string name="menu_grid">Tampilan bergaris</string>
+	<string name="menu_list">tampilan daftar</string>
+	<string name="menu_open">Buka</string>
+	<string name="menu_save">Menyimpan</string>
+	<string name="menu_search">Pencarian</string>
+	<string name="menu_select">Pilih \"^1\"</string>
+	<string name="menu_settings">pengaturan</string>
+	<string name="menu_share">Bagikan</string>
+	<string name="menu_sort">Sortir dengan</string>
+	<string name="mode_selected_count">%1$d dipilih</string>
+	<string name="no_permission_for_drm">Maaf, file DRM tidak dapat dibagi</string>
+	<string name="query_error">Gagal untuk query dokumen</string>
+	<string name="rights_expired">Hak berakhir untuk lagu</string>
+	<string name="root_available_bytes">%1$s gratis</string>
+	<string name="root_recent">Baru</string>
+	<string name="root_type_apps">Aplikasi tambahan lainnya</string>
+	<string name="root_type_device">perangkat</string>
+	<string name="root_type_service">layanan penyimpanan</string>
+	<string name="root_type_shortcut">Shortcuts</string>
+	<string name="save_error">Gagal untuk menyimpan dokumen</string>
+	<string name="share_via">Berbagi melalui</string>
+	<string name="sort_date">Menurut tanggal dimodifikasi</string>
+	<string name="sort_name">Dengan nama</string>
+	<string name="sort_size">dengan ukuran</string>
+	<string name="title_open">Buka dari</string>
+	<string name="title_save">Simpan ke</string>
+	<string name="toast_failed_delete">Tidak dapat menghapus beberapa dokumen</string>
+	<string name="toast_no_application">Tidak dapat membuka file</string>
+	<string name="toast_not_show_thumbnail">Tidak dapat menampilkan thumbnail pada perangkat ram rendah.</string>
+</resources>
