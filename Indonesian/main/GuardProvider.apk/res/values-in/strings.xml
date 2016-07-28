@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Komponen keamanan MIUI</string>
+    <string name="hello_world">Halo dunia!</string>
+    <string name="menu_settings">Setelan</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="Tencent">Tencent</string>
+    <string name="AVL">AVL</string>
+    <string name="Mi">Mi</string>
+    <string name="Avast">Avast</string>
+    <string name="DesTencent">Tencent</string>
+    <string name="DesAVL">AVL</string>
+    <string name="DesMi">Mi</string>
+    <string name="DesAvast">Avast</string>
+    <string name="tencent_dialog_title">Kebijakan Privasi Tencent</string>
+    <string name="tencent_dialog_header">Fitur ini mengenkripsi dan mengunggah ID perangkat Anda ke server Tencent (%s).</string>
+    <string name="tencent_dialog_policy">lihat Kebijakan Privasi</string>
+    <string name="tencent_dialog_cloudscan">Unggah dan pindai nama dan rincian apl dengan definisi virus online.</string>
+    <string name="tencent_dialog_dbupdate">Otomatis perbarui definisi virus</string>
+    <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
+    <string name="avl_dialog_title">Kebijakan Privasi AVL</string>
+    <string name="avl_dialog_header">Fitur ini mengenkripsi dan mengunggah ID perangkat Anda ke server AVL (%s).</string>
+    <string name="avl_dialog_policy">lihat Kebijakan Privasi</string>
+    <string name="avl_dialog_cloudscan" />
+    <string name="avl_dialog_dbupdate" />
+    <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
+    <string name="avast_dialog_title">Kebijakan privasi Avast</string>
+    <string name="avast_dialog_header">Fitur ini mengenkripsi dan mengunggah ID perangkat Anda ke server Avast (%s).</string>
+    <string name="avast_dialog_policy">lihat Kebijakan Privasi</string>
+    <string name="avast_dialog_cloudscan" />
+    <string name="avast_dialog_dbupdate" />
+    <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
+    <string name="avast_virus_type_adware_description">Virus nya adalah adware. Menyebabkan menampilkan iklan otomatis.</string>
+    <string name="avast_virus_type_cryportor_description">Virus nya adalah cryptor. Sebuah perangkat lunak jahat yang menggandakan diri di ruang penyimpanan anda.</string>
+    <string name="avast_virus_type_dropper_description">Virus nya adalah dropper. Membawa kode yang dapat memuat virus berbahaya lainnya.</string>
+    <string name="avast_virus_type_exploit_description">Virus nya adalah exploit. Memanfaatkan celah atau kerentanan sistem yang menyebabkan perilaku yang tidak dapat diterka dan diantisipasi.</string>
+    <string name="avast_virus_type_heuristic_description">Infeksi ini diketahui oleh heuristic spesifik. Analisa heuristic spesifik menyatakan ini adalah virus.</string>
+    <string name="avast_virus_type_joke_description">Virus nya adalah joke. Menciptakan gangguan seperti candaan. Normalnya tidak memberikan kerusakan berarti pada sistem.</string>
+    <string name="avast_virus_type_pup_description">Virus nya adalah program potensial tak diinginkan (PUP). Sebuah program membahayakan (spyware, adware, dll), yang faktanya pengguna sadar mengizinkan unduh tersebut.</string>
+    <string name="avast_virus_type_rootkit_description">Virus nya adalah rootkit. Tipe perangkat lunak yang menyembunyikan fakta bahwa sistem operasi telah diserang. Mengambil alih perangkat anda dengan bersembunyi didalamnya. Rootkit mengizinkan virus dan malware bersembunyi didepan mata anda dengan menyamar sebagai file dimana antivirus normal tidak dapat mendeteksinya.</string>
+    <string name="avast_virus_type_spyware_description">Virus ini adalah spyware. Itu adalah perangkat lunak yang diam-diam mengumpulkan informasi pengguna melewati jaringan internet yang digunakan oleh pengguna tanpa sepengetahuannya.</string>
+    <string name="avast_virus_type_suspicious_description">Sebuah tipe virus umum yang mencurigakan. Sistem antivirus sedang berusaha mengkategorikannya.</string>
+    <string name="avast_virus_type_tool_description">Virus ini adalah alat berpotensi jahat yang menginfeksi perangkat Anda, virus ini mirip PUP.</string>
+    <string name="avast_virus_type_trjan_description">Virus ini adalah trojan. Ini adalah perangkat lunak jahat yang dirancang untuk menyediakan ketidak-sahhan, akses remote ke perangkat pengguna. Trojan biasanya tidak memiliki kemampuan untuk mereplikasi diri seperti virus; namun, mereka dapat menyebabkan memasang langsung perangkat lunak jahat yang lainnya terhadap mesin, berbagai data yang dicuri, atau kegiatan berbahaya lainnya.</string>
+    <string name="avast_virus_type_unknown_description">Tipe infeksi virus tak dikenal.</string>
+    <string name="avast_virus_type_worm_description">Virus ini adalah worm. Ini adalah malware mandiri yang mereplikasi sendiri untuk menyebar ke perangkat lain. Mengambil keuntungan dari file atau transportasi informasi fitur dari sistem (seperti jaringan), ia dapat melakukan perjalanan tanpa tindakan manusia. Worm hampir selalu menyebabkan setidaknya beberapa kerusakan pada jaringan.</string>
+</resources>
