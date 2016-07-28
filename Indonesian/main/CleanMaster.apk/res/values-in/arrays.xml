@@ -13,9 +13,9 @@
         <item>Ukuran</item>
     </string-array>
     <string-array name="auto_clean_time">
-        <item>Setiap Hari</item>
-        <item>Setiap 3 Hari</item>
-        <item>Setiap 7 Hari</item>
+        <item>Tiap hari</item>
+        <item>Tiap 3 hari</item>
+        <item>Tiap 7 hari</item>
     </string-array>
     <string-array name="auto_clean_size">
         <item>100 MB</item>
@@ -24,20 +24,20 @@
         <item>1 GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Tampilkan</item>
-        <item>"Jangan Tampilkan"</item>
-        <item>Tampilkan setelah</item>
+        <item>Tampil</item>
+        <item>Jangan tampilkan</item>
+        <item>Tampilkan setelahnya</item>
     </string-array>
     <string-array name="cache_clean_menu">
-        <item>Bersihkan file ini</item>
-        <item>"Lihat lokasi file"</item>
+        <item>Bersihkan berkas ini</item>
+        <item>Lihat lokasi berkas</item>
     </string-array>
     <string-array name="trash_clean_menu">
-        <item>Bersihkan file ini</item>
-        <item>"Lihat lokasi file"</item>
+        <item>Bersihkan berkas ini</item>
+        <item>Lihat lokasi berkas</item>
     </string-array>
     <string-array name="video_clean_menu">
-        <item>Bersihkan file ini</item>
+        <item>Bersihkan berkas ini</item>
         <item>Buka</item>
     </string-array>
     <string-array name="empty_floder_clean_menu">
@@ -45,22 +45,22 @@
     </string-array>
     <string-array name="apk_clean_menu">
         <item>Bersihkan</item>
-        <item>Instal aplikasi ini</item>
+        <item>Instal apl ini</item>
         <item>Lihat di folder</item>
     </string-array>
     <string-array name="long_add_menu">
-        <item>Tambahkan pengecualian</item>
+        <item>Tambah ke pengecualian</item>
     </string-array>
     <string-array name="long_add_app_menu">
-        <item>Tambahkan aplikasi ke pengecualian</item>
+        <item>Tambah apl ke pengecualian</item>
     </string-array>
     <string-array name="app_clean_menu">
-        <item>Copot</item>
+        <item>Uninstal</item>
     </string-array>
     <string-array name="auto_alert_apps_time">
-        <item>Setiap 7 Hari</item>
-        <item>Setiap 15 Hari</item>
-        <item>Setiap 30 Hari</item>
+        <item>Tiap 7 hari</item>
+        <item>Tiap 15 hari</item>
+        <item>Tiap 30 hari</item>
     </string-array>
     <string-array name="scan_engine">
         <item>Clean Master</item>

@@ -5,8 +5,8 @@
         <item quantity="one">1 menit</item>
     </plurals>
     <plurals name="Nmins">
-        <item quantity="other">%d mins</item>
-        <item quantity="one">1 min</item>
+        <item quantity="other">%d menit</item>
+        <item quantity="one">1 menit</item>
     </plurals>
     <plurals name="Nhours">
         <item quantity="other">%d jam</item>
@@ -24,11 +24,11 @@
         <item quantity="one">+1</item>
     </plurals>
     <plurals name="Nevents">
-        <item quantity="other">%d even</item>
-        <item quantity="one">1 even</item>
+        <item quantity="other">%d acara</item>
+        <item quantity="one">1 acara</item>
     </plurals>
     <plurals name="N_remaining_events">
-        <item quantity="other">+%d even</item>
-        <item quantity="one">+1 even</item>
+        <item quantity="other">+%d acara</item>
+        <item quantity="one">+1 acara</item>
     </plurals>
 </resources>
