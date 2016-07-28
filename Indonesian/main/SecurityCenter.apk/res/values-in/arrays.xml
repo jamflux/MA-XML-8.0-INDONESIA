@@ -21,125 +21,111 @@
         <item>"Bulan ini: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Kemarin (data)</item>
-        <item>Hari ini (data)</item>
-        <item>Bulan ini (data)</item>
-        <item>Kemarin WLAN</item>
-        <item>Hari ini WLAN</item>
-        <item>Bulan ini WLAN</item>
+        <item>Kemarin (seluler)</item>
+        <item>Hari ini (seluler)</item>
+        <item>Bulan ini (seluler)</item>
+        <item>Kemarin (Wi-Fi)</item>
+        <item>Hari ini (Wi-Fi)</item>
+        <item>Bulan ini (Wi-Fi)</item>
     </string-array>
     <string-array name="date_of_app">
-        <item>Kemarin (data)</item>
-        <item>Hari ini (data)</item>
-        <item>Bulan ini (data)</item>
+        <item>Kemarin (seluler)</item>
+        <item>Hari ini (seluler)</item>
+        <item>Bulan ini (seluler)</item>
     </string-array>
     <string-array name="network_speed_update_internals">
-        <item>3 detik</item>
-        <item>4 detik</item>
-        <item>5 detik</item>
-        <item>6 detik</item>
-        <item>7 detik</item>
-        <item>8 detik</item>
-        <item>9 detik</item>
+        <item>3 dtk</item>
+        <item>4 dtk</item>
+        <item>5 dtk</item>
+        <item>6 dtk</item>
+        <item>7 dtk</item>
+        <item>8 dtk</item>
+        <item>9 dtk</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"Penggunaan mobile "</item>
-        <item>"Penggunaan WLAN "</item>
-        <item>"Data tersimpan "</item>
+        <item>"Penggunaan seluler "</item>
+        <item>"Penggunaan Wi-Fi "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-        <item>"Penggunaan mobile "</item>
-        <item>"Penggunaan WLAN "</item>
+        <item>"Penggunaan seluler "</item>
+        <item>"Penggunaan Wi-Fi "</item>
     </string-array>
     <string-array name="traffic_sort_type">
-        <item>"Penggunaan mobile "</item>
-        <item>"Penggunaan WLAN "</item>
-        <item>"Data tersimpan "</item>
-        <item>Mi Data plan</item>
+        <item>"Penggunaan data seluler "</item>
+        <item>"Penggunaan Wi-Fi "</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
-        <item>Dapatkan secara otomatis</item>
-        <item>Set manual</item>
+        <item>Peroleh secara otomatis</item>
+        <item>Setel secara manual</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
-        <item>Tampilkan peringatan</item>
-        <item>Peringatkan dan matikan data mobile</item>
+        <item>Tampil peringatan</item>
+        <item>Beritahu dan matikan data seluler</item>
     </string-array>
     <string-array name="roaming_apps_sorted_type">
         <item>Sering digunakan</item>
         <item>Nama</item>
     </string-array>
-    <string-array name="traffic_saving_compress_level_string_array">
-        <item>Tdk satupun</item>
-        <item>Rendah</item>
-        <item>Medium</item>
-        <item>Tinggi</item>
-    </string-array>
     <string-array name="roaming_network_type">
         <item>Selalu</item>
-        <item>Hanya untuk pengecualian</item>
-        <item>Tidak pernah</item>
+        <item>Pengecualian saja</item>
+        <item>Jangan</item>
     </string-array>
     <string-array name="lock_mode">
         <item>Saat perangkat terkunci</item>
-        <item>Saat perangkat terkunci atau setelah aplikasi keluar</item>
-        <item>Saat perangkat terkunci atau dalam 1 menit setelah aplikasi keluar</item>
+        <item>Saat perangkat terkunci atau keluar dari apl</item>
+        <item>Saat perangkat terkunci atau 1 mnt setelah keluar dari apl</item>
     </string-array>
     <string-array name="lock_mode_value">
         <item>1</item>
         <item>0</item>
         <item>2</item>
     </string-array>
-    <integer-array name="pc_time_choice_items">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>30</item>
-        <item>0</item>
-    </integer-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Setelah 1 menit</item>
         <item>Setelah 5 menit</item>
         <item>Setelah 10 menit</item>
-        <item>Setelah 30 menit</item>
-        <item>Never</item>
+        <item>Jangan</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Sekali saja</item>
-        <item>Setiap hari</item>
+        <item>Sekali</item>
+        <item>Tiap hari</item>
         <item>Hari kerja</item>
-        <item>Seminggu</item>
-        <item>Custom</item>
+        <item>Senin sampai Jumat</item>
+        <item>Kustom</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Sekali saja</item>
-        <item>Setiap hari</item>
-        <item>Seminggu</item>
-        <item>Custom</item>
+        <item>Sekali</item>
+        <item>Tiap hari</item>
+        <item>Senin sampai Jumat</item>
+        <item>Kustom</item>
     </string-array>
-    <integer-array name="pc_choice_dialog_over_heat_values">
-        <item>40</item>
-        <item>42</item>
-        <item>45</item>
-        <item>48</item>
-        <item>0</item>
-    </integer-array>
-    <integer-array name="pc_choice_dialog_battery_style_values">
+    <string-array name="power_dialog_sleep_items">
+        <item>15 detik</item>
+        <item>30 detik</item>
+        <item>1 menit</item>
+        <item>2 menit</item>
+        <item>5 menit</item>
+        <item>10 menit</item>
+        <item>Jangan</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Performa tinggi</item>
+        <item>Seimbang</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Matikan</item>
+        <item>Hidupkan</item>
+        <item>Bawaan</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Tidak getar</item>
+        <item>Getar saat hening</item>
+        <item>Selalu getar</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </integer-array>
-    <integer-array name="alarm_repeat_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="alarm_repeat_type_no_workdays_values">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
+    </string-array>
 </resources>
