@@ -8,6 +8,6 @@ Latest XML changes from originals values to translate:
 
 https://github.com/Acid-miuipolskapl/v8-XML-Compare
 
-What´s new in our repositorie?:
+What's new in our repositorie?:
 
-https://github.com/jamflux/MA-XML-8.0-INDONESIAN/commits/master
+https://github.com/jamflux/MA-XML-8.0-INDONESIA/commits/master
